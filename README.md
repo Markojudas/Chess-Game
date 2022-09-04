@@ -22,7 +22,7 @@
 <pre><p align="center"><img src=".\img/pawnPromotion.png"></p></pre>
 <pre><p align="center"><img src=".\img/pawnPromotion2.png"></p></pre>
 
-<p>Note: Moves such as <strong><em>En Passant</em></strong> and <strong><em>Castling</em></strong> are <strong>implemented.</strong>
+<p>Note: Moves such as <strong><em>En Passant</em></strong> and <strong><em>Castling</em></strong> are <strong>NOT</strong>implemented.
 
 ## Run
 
